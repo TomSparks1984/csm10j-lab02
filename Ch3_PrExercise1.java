@@ -71,3 +71,6 @@ public class CSM10JLab2 {
         outFile.println(outputStr);
         inFile.close();
         outFile.close();
+        
+    }
+}
