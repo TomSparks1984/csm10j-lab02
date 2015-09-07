@@ -52,7 +52,7 @@ public class CSM10JLab2 {
                 ", Area = " + String.format("%.2f", length * width) + ", Perimeter = " + 
                 String.format("%.2f", 2 * length + 2 * width) + "\n\n" +
                 
-                "Circle:\nRadius = " + String.format("%.2f", radius + ", Area = " + String.format("%.2f", 3.1416 * radius * 
+                "Circle:\nRadius = " + String.format("%.2f", radius) + ", Area = " + String.format("%.2f", 3.1416 * radius * 
                 radius) + ", Circumference = " + String.format("%.2f", 2 * 3.1416 * radius) + "\n\n" +
                 
                 "Name: = " + firstName + " " + lastName + ", Age = " + age + "\n" +
